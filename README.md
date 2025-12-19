@@ -21,7 +21,7 @@ Jeune professionnel de 26 ans, j’ai entamé une reconversion vers le développ
 - React *(niveau débutant)*
 - Node.js *(initiation)*
 
-## 💡 Philosophie de travail
+## Philosophie de travail
 Je crois en un développement web :
 - **Adaptatif** : capable de répondre aux besoins réels des utilisateurs.
 - **Collaboratif** : enrichi par les échanges et le travail en équipe.
@@ -29,7 +29,7 @@ Je crois en un développement web :
 
 ---
 
-## 🧩 Soft-skills
+## Soft-skills
 
 - Sens du service et orientation utilisateur  
 - Intelligence émotionnelle et écoute active  
@@ -39,13 +39,13 @@ Je crois en un développement web :
 
 ---
 
-## 🎓 Formation
+## Formation
 
 - **Développement Web** – Metz Numeric School (2023–2024)  
 
 ---
 
-## 🚀 Objectif
+## Objectif
 
 Je cherche à intégrer une équipe dynamique pour :
 - Consolider mes compétences techniques  
