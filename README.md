@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio ! Je m'appelle **Idriss**, développeur web en recon
 
 ## À propos de moi
 
-Jeune professionnel de 28 ans, j’ai entamé une reconversion vers le développement web après plusieurs années dans le secteur de la restauration. Curieux, rigoureux et doté d’un fort esprit d’équipe, j’ai suivi une formation complète en front-end et back-end à la **Metz Numeric School**, où j’ai acquis les bases solides pour concevoir des projets web modernes.
+Jeune professionnel de 26 ans, j’ai entamé une reconversion vers le développement web après plusieurs années dans le secteur de la restauration. Curieux, rigoureux et doté d’un fort esprit d’équipe, j’ai suivi une formation complète en front-end et back-end à la **Metz Numeric School**, où j’ai acquis les bases solides pour concevoir des projets web modernes.
 
 ---
 
